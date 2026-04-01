@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1775046202133,
+  "timestamp": 1775049114893,
   "index": "/cuby-assembly/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/cuby-assembly/favicon.ico",
         "/cuby-assembly/index.html",
-        "/cuby-assembly/main-V3ST2YYX.js",
+        "/cuby-assembly/main-UWX4YG4T.js",
         "/cuby-assembly/manifest.webmanifest",
         "/cuby-assembly/styles-BF3W6NNS.css"
       ],
@@ -42,8 +42,8 @@
   "dataGroups": [],
   "hashTable": {
     "/cuby-assembly/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/cuby-assembly/index.html": "89575ac130e58d9d46f475880489a524caf67f50",
-    "/cuby-assembly/main-V3ST2YYX.js": "d954c5d13d3ba508be4e117c1bb159bce700758a",
+    "/cuby-assembly/index.html": "79eb2736f98e513bd8a2a00fd24fbe5d5102672b",
+    "/cuby-assembly/main-UWX4YG4T.js": "d615acd9abd2b1b895f56bab433c41d4e337a99c",
     "/cuby-assembly/manifest.webmanifest": "bce9544e90fff1ab025bf4d8bfc2561597b0a9dc",
     "/cuby-assembly/models/balka.stl": "971b5deb3ad3798fe577744e6ae2b4188307cfe0",
     "/cuby-assembly/models/fundament.stl": "3fb903249e978e3c686effd5218221cc6eac7200",
