@@ -1,0 +1,77 @@
+{
+  "configVersion": 1,
+  "timestamp": 1775045167514,
+  "index": "/cuby-assembly/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/cuby-assembly/favicon.ico",
+        "/cuby-assembly/index.html",
+        "/cuby-assembly/main-V3ST2YYX.js",
+        "/cuby-assembly/manifest.webmanifest",
+        "/cuby-assembly/styles-BF3W6NNS.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/cuby-assembly/models/balka.stl",
+        "/cuby-assembly/models/fundament.stl",
+        "/cuby-assembly/models/krovlya.stl",
+        "/cuby-assembly/models/stena_okno_dver.stl",
+        "/cuby-assembly/models/stena_okno_okno.stl",
+        "/cuby-assembly/models/stoyka.stl",
+        "/cuby-assembly/models/torets_gluhoy.stl",
+        "/cuby-assembly/models/torets_okno.stl"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/cuby-assembly/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/cuby-assembly/index.html": "89575ac130e58d9d46f475880489a524caf67f50",
+    "/cuby-assembly/main-V3ST2YYX.js": "d954c5d13d3ba508be4e117c1bb159bce700758a",
+    "/cuby-assembly/manifest.webmanifest": "bce9544e90fff1ab025bf4d8bfc2561597b0a9dc",
+    "/cuby-assembly/models/balka.stl": "971b5deb3ad3798fe577744e6ae2b4188307cfe0",
+    "/cuby-assembly/models/fundament.stl": "3fb903249e978e3c686effd5218221cc6eac7200",
+    "/cuby-assembly/models/krovlya.stl": "7558d3e1934da6ec20f1916ec6f76e8f47522f13",
+    "/cuby-assembly/models/stena_okno_dver.stl": "458ccf7572e9e96982ec2d1b4929bc2ebdf27473",
+    "/cuby-assembly/models/stena_okno_okno.stl": "d8cf6331d69989cf634ba3d3038851ba74e3b345",
+    "/cuby-assembly/models/stoyka.stl": "d49448ff0474f08a243b6bad0650bf9c54b809d8",
+    "/cuby-assembly/models/torets_gluhoy.stl": "4492baf5fe043531a47124932be2c8acd7a9a3f8",
+    "/cuby-assembly/models/torets_okno.stl": "937b4d1a670ab2a58a6e5b4ca9e65b24ce35857e",
+    "/cuby-assembly/styles-BF3W6NNS.css": "9966c385b1326f2576599b6195578d84fd5b858a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
